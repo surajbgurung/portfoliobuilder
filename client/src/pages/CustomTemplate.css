@@ -1,0 +1,30 @@
+body {
+
+    background-color: lightskyblue;
+    /* background-image: url(./images/portfolio-background.jpeg); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-image: -o-linear-gradient(.2); */
+}   
+
+
+ul {
+    list-style: none;
+    margin-top: 50px;
+}
+input[type='checkbox'] {
+    margin-right: 20px;
+}
+.MyContainer {
+    display: block;
+    margin-left: 40%;
+    margin-bottom: 100px;
+}
+.PageTitle {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+
+
