@@ -1,13 +1,10 @@
-body {
-
+.customTemplate {
     background-color: lightskyblue;
-    /* background-image: url(./images/portfolio-background.jpeg); */
+    background-image: url(./images/portfolio-background.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
-    /* background-image: -o-linear-gradient(.2); */
+    background-image: -o-linear-gradient(.2);
 }   
-
-
 ul {
     list-style: none;
     margin-top: 50px;
@@ -18,13 +15,10 @@ input[type='checkbox'] {
 .MyContainer {
     display: block;
     margin-left: 40%;
-    margin-bottom: 100px;
+    padding-bottom: 100px;
 }
 .PageTitle {
+    padding-top: 80px;
     text-align: center;
     margin-bottom: 50px;
 }
-
-
-
-
