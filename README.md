@@ -54,7 +54,7 @@ To deploy, simply add and commit your changes, and push to Heroku. As is, the NP
 
 ![portfolio](./images/wizard.png)
 
-### At last it ask for Conformation to submit. If there is any mistake user can edit and delte the input.
+### At last it ask for Conformation to submit. If there is any mistake user can edit and delete the input.
 
 ![portfolio](./images/conformpage.png)
 
