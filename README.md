@@ -32,6 +32,43 @@ Your app should now be running on <http://localhost:3000>. The Express server sh
 
 To deploy, simply add and commit your changes, and push to Heroku. As is, the NPM scripts should take care of the rest.
 
+## Demostration
+
+### Landing page
+
+![portfolio](./images/portfolio.png)
+
+### User have to Register if they don't have Account 
+
+![portfolio](./images/register.png)
+
+### Login Form
+
+![portfolio](./images/login.png)
+
+### Then User will be greeted by their First Name and Last Name
+
+![portfolio](./images/welcome.png)
+
+### User can put their information by clicking on  Template Design or Custom Design and it will direct to wizard.
+
+![portfolio](./images/wizard.png)
+
+### At last it ask for Conformation to submit. If there is any mistake user can edit and delte the input.
+
+![portfolio](./images/conformpage.png)
+
+### After Submitting the Wizard Form it will direct to Template and User can choose their desire Template to Publish.
+
+![portfolio](./images/template.png)
+
+### Published Template with Full Demo
+ 
+ ![portfolio](./images/portfoliobuilder.gif)
+
+
+
+
 ## Contributors
 
 ```
